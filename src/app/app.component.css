@@ -1,0 +1,21 @@
+p {
+  font-family: Lato;
+}
+
+.nav{
+  display:flex;
+  justify-content: center;
+  background-color: rgb(211, 231, 156);
+  height: 60px;
+  margin: 10;
+}
+
+.gaps {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.navigation {
+  color: rgb(89, 95, 78);
+  background-color: rgb(143, 214, 102);
+}
